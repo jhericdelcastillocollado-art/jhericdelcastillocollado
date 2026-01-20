@@ -7,7 +7,11 @@ BSIT 3
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JhericJoshua) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jjherixc) 
+
+<a href="https://www.facebook.com/Jheric Joshua" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://img.icons8.com/color/96/000000/facebook-new.png" alt="Facebook" /> </a> &nbsp;&nbsp; 
+<a href="https://www.instagram.com/jjherixc/" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" alt="Instagram" /> </a> &nbsp;&nbsp; 
+<a href="jhericdelcastillocollado@gmail.com" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Gmail" /> </a>
+
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
