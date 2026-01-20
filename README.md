@@ -1,5 +1,6 @@
 # 💫 About Me:
-Jheric Joshua D Collado
+Jheric Joshua D. Collado
+BSIT 3
 
 
 ## 🌐 Socials:
