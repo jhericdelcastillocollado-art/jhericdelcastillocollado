@@ -8,7 +8,7 @@ BSIT 3
 
 ## 🌐 Socials:
 
-<a href="https://www.facebook.com/Jheric Joshua" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://img.icons8.com/color/96/000000/facebook-new.png" alt="Facebook" /> </a> &nbsp;&nbsp; 
+<a href="https://www.facebook.com/JhericJoshua" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://img.icons8.com/color/96/000000/facebook-new.png" alt="Facebook" /> </a> &nbsp;&nbsp; 
 <a href="https://www.instagram.com/jjherixc/" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" alt="Instagram" /> </a> &nbsp;&nbsp; 
 <a href="jhericdelcastillocollado@gmail.com" target="_blank" rel="noopener noreferrer"> <img height="40" src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Gmail" /> </a>
 
